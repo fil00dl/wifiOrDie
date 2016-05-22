@@ -1,5 +1,5 @@
 # wifiOrDie
-WIFI OR DIE is a browser action game, developed (with CreateJS and GSAP libraries) during the Ludum Dare 30.
+[WIFI OR DIE](http://philippe.deluca.free.fr/LD30/wifiOrDie/) is a browser action game, developed (with CreateJS and GSAP libraries) during the Ludum Dare 30.
 
 Objective :
 You'll stay alive so long as you have a WiFi connection as you move between the planets.
