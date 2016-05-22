@@ -1,0 +1,39 @@
+{
+"images": ["assets/all.png"],
+"frames": [
+
+    [260, 112, 45, 45], 
+    [260, 159, 45, 45], 
+    [260, 206, 45, 45], 
+    [307, 112, 45, 45], 
+    [307, 159, 45, 45], 
+    [307, 206, 45, 45], 
+    [2, 2, 256, 256], 
+    [401, 159, 44, 44], 
+    [260, 2, 193, 108], 
+    [354, 112, 45, 45], 
+    [401, 112, 45, 45], 
+    [354, 159, 45, 45], 
+    [354, 206, 45, 45]
+],
+"animations": {
+    
+        "black_planet":[0], 
+        "blue_earth":[1], 
+        "blue_planet":[2], 
+        "blue_star":[3], 
+        "full_star":[4], 
+        "green_planet":[5], 
+        "logo":[6], 
+        "red_planet":[7], 
+        "satellite":[8], 
+        "star":[9], 
+        "white_planet":[10], 
+        "yellow_planet":[11], 
+        "yellow_star":[12]
+},
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:2221651e45126270fbf12f1f64345222:a21568c79ea914529d69c9038d901ab9:a197e4af6df39e24789baf29ba373b2c$",
+        "Created with TexturePacker (http://www.texturepacker.com) for EaselJS"
+]
+}
